@@ -76,7 +76,7 @@ int main(){
             case 3: multiply(); break;
             case 4: divide(); break;
             case 5: percentage(); break;
-            case 6: printf("\n=== Exiting the Calculator ===\nCreated By Prashant\n"); return 0;
+            case 6: printf("\n=== Exiting the Calculator ===\nCreated By Piyush\n"); return 0;
             default: printf("Invalid Choice. Select an option between 1-6\n");
         }
     }
